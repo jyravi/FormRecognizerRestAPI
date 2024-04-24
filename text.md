@@ -1,0 +1,25 @@
+<!-- PageNumber="27" --> <!-- PageHeader="RELATIONS AND FUNCTIONS" -->
+Example 4 If :formula: form the set
+Solution We have, Px PxP= {(1,1,1), (1,1,2), (1,2,1), (1,2,2), (2,1,1), (2,1,2), (2,2,1),
+Example 5 If :formula: is the set of all real numbers, what do the cartesian products and :formula: represent?
+Solution The Cartesian product :formula: represents the set R × R={(x, y) : x, which represents the coordinates of all the points in two dimensional space and the cartesian product :formula: represents the set which represents the coordinates of all the points in three-dimensional space.
+Example 6 If :formula: :formula: :formula: find :formula: and
+Solution
+EXERCISE 2.1
+1. If
+find the values of and
+2. If the set :formula: has 3 elements and the set :formula: then find the number of elements in
+3. If :formula: and :formula: find :formula: and
+4. State whether each of the following statements are true or false. If the statement is false, rewrite the given statement correctly.
+(i) If :formula: and :formula: then
+(ii) If :formula: and :formula: are non-empty sets, then :formula: is a non-empty set of ordered pairs :formula: such that :formula: and
+(iii) If :formula: :formula: then
+5. If :formula: find
+6. If :formula: Find :formula: and
+7. Let :formula: :formula: :formula: and :formula: Verify that
+(i) :formula: (ii) :formula: is a subset of
+8. Let :formula: and :formula: Write :formula: How many subsets will :formula: have? List them.
+9. Let :formula: and :formula: be two sets such that :formula: and :formula: If are in :formula: find :formula: and :formula: where :formula: :formula: and :formula: are distinct elements.
+<!-- PageFooter="Rationalised 2023-24" -->
+ablished
+<!-- Formula="$P = 1 , 2 ,$" --> <!-- Formula="$\mathrm { P } \times \mathrm { P } \times \mathrm { P } .$" --> <!-- Formula="$\left( 2 , 2 , 2 \right) .$" --> <!-- Formula="$R$" --> <!-- Formula="$\mathrm { R } \times \mathrm { R }$" --> <!-- Formula="$\mathrm { R } \times \mathrm { R } \times \mathrm { R }$" --> <!-- Formula="$\mathrm { R } \times \mathrm { R }$" --> <!-- Formula="$\left. y \in R \right\}$" --> <!-- Formula="$\mathrm { R } \times \mathrm { R } \times \mathrm { R }$" --> <!-- Formula="$\mathrm { R } \times \mathrm { R } \times \mathrm { R } = \left\{ \left( x , y , z \right) : x , y , z \in \mathrm { R } \right\}$" --> <!-- Formula="$A \times B = \left\{ \left( p , q \right) , \left( p , r \right) \right. ,$" --> <!-- Formula="$\left( m , q \right) ,$" --> <!-- Formula="$\left( m , r \right) ,$" --> <!-- Formula="$A$" --> <!-- Formula="$B .$" --> <!-- Formula="$$\mathrm { A } = \text { set of first elements } = \left\{ p , m \right\}$$" --> <!-- Formula="$$\mathrm { B } = \text { set of second elements } = \left\{ q , r \right\} .$$" --> <!-- Formula="$\left( \frac { x } { 3 } + 1 , y - \frac { 2 } { 3 } \right) = \left( \frac { 5 } { 3 } , \frac { 1 } { 3 } \right)$" --> <!-- Formula="$A$" --> <!-- Formula="$B = 3 , 4 , 5 ,$" --> <!-- Formula="$\left( \mathrm { A } \times \mathrm { B } \right) .$" --> <!-- Formula="$G = 7 , 8$" --> <!-- Formula="$H = 5 , 4 , 2 ,$" --> <!-- Formula="$\mathrm { G } \times \mathrm { H }$" --> <!-- Formula="$H \times G .$" --> <!-- Formula="$P = m , n$" --> <!-- Formula="$Q = n , m ,$" --> <!-- Formula="$P \times Q = \left\{ \left( m , n \right) , \left( n , m \right) \right\} .$" --> <!-- Formula="$A$" --> <!-- Formula="$\mathrm { B }$" --> <!-- Formula="$\mathrm { A } \times \mathrm { B }$" --> <!-- Formula="$\left( x , y \right)$" --> <!-- Formula="$x \in A$" --> <!-- Formula="$y \in B .$" --> <!-- Formula="$A = 1 , 2 ,$" --> <!-- Formula="$B = 3 , 4 ,$" --> <!-- Formula="$\mathrm { A } \times \left( \mathrm { B } \cap \phi \right) = \phi .$" --> <!-- Formula="$A = - 1 , 1 ,$" --> <!-- Formula="$A \times A \times A .$" --> <!-- Formula="$A \times B = \left\{ \left( a , x \right) , \left( a , y \right) , \left( b , x \right) , \left( b , y \right) \right\} .$" --> <!-- Formula="$\mathrm { A }$" --> <!-- Formula="$B .$" --> <!-- Formula="$A = 1 , 2 ,$" --> <!-- Formula="$B = 1 , 2 , 3 , 4 ,$" --> <!-- Formula="$C = 5 , 6$" --> <!-- Formula="$D = 5 , 6 , 7 , 8 .$" --> <!-- Formula="$\mathrm { A } \times \left( \mathrm { B } \cap C \right) = \left( \mathrm { A } \times \mathrm { B } \right) \cap \left( \mathrm { A } \times C \right) .$" --> <!-- Formula="$\mathrm { A } \times C$" --> <!-- Formula="$\mathrm { B } \times \mathrm { D } .$" --> <!-- Formula="$A = 1 , 2$" --> <!-- Formula="$B = 3 , 4 .$" --> <!-- Formula="$\mathrm { A } \times \mathrm { B } .$" --> <!-- Formula="$\mathrm { A } \times \mathrm { B }$" --> <!-- Formula="$A$" --> <!-- Formula="$B$" --> <!-- Formula="$n \left( A \right) = 3$" --> <!-- Formula="$n \left( B \right) = 2 .$" --> <!-- Formula="$\left( x , 1 \right) ,$" --> <!-- Formula="$\left( y , 2 \right) ,$" --> <!-- Formula="$\left( z , 1 \right)$" --> <!-- Formula="$\mathrm { A } \times \mathrm { B } ,$" --> <!-- Formula="$A$" --> <!-- Formula="$\mathrm { B } ,$" --> <!-- Formula="$x ,$" --> <!-- Formula="$y$" --> <!-- Formula="$z$" -->
